@@ -1,0 +1,4 @@
+include MWMan.php
+include *.lock
+include LICENSE
+include Pipfile

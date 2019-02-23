@@ -1,0 +1,12 @@
+*~
+mw-*
+.DS_Store
+
+# Generated files
+build
+*.egg-info
+dist
+__pycache__
+
+# This should be removed...
+w
